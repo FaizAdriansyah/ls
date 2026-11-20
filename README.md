@@ -4,3 +4,6 @@ Masukkan file PDF/JSON/input manual soal sendiri (dan bisa combo! {menggunakan l
 Tanpa kertas, pensil, atau pulpen.<br>
 Semua serba digital dan interaktif!<br><br>
 Sungguh nikmat bukan latihan langsung di hp tanpa harus duduk tegak dan menulis manual di kertas hitam-putih membosankan itu lagi?
+<br><br>
+# ⚠️Harap perhatian!<br>
+Ini bukan CBT, user sangat bisa curang dengan mengakses menu edit paket soal/membuka aplikasi lain.<br>**Solusi nya:**rekam layar ketika anak anda mengerjakan/pantau secara fisik/pantau layar melalui anydesk,teamviewer,dan sebagainya.(tidak ada maksud sponsor/iklan saat ini)
